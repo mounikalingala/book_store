@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #1b1b1b;
+    padding: 24px;
+}
+
+.page-heading {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 25px;
+}
+
+
+.wingsoffire-bg-container {
+    background-color: #e6f6ff;
+    border-radius: 5px;
+}
+
+.wingsoffire-image {
+    height: 185px;
+    width: 127px;
+}
+
+.book-text-container {
+    padding: 16px;
+}
+
+.book-title {
+    color: #183b16;
+    font-size: 16px;
+    font-family: bree Serif;
+}
+
+.book-discription {
+    color: #06070d;
+    font-size: 12px;
+    font-family: bree Serif;
+}
+
+.book-author {
+    color: #183b16;
+    font-size: 10px;
+    font-family: bree Serif;
+
+}
+
+.button {
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 500;
+    margin: 5px;
+}
+
+.recommended-books {
+    color: #ffffff;
+    font-family: bree Serif;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.recommended-books-container {
+    margin-bottom: 15px;
+}
+
+.Recommended-book-title {
+    color: #ffffff;
+    font-size: 16px;
+    font-family: bree Serif;
+}
+
+.Recommended-book-discription {
+    color: #e4e7eb;
+    font-family: bree Serif;
+    font-size: 12px;
+}
+
+.book-details-container {
+    background-color: #1b1b1b;
+    text-align: center;
+    padding: 24px;
+
+}
+
+.book-details-image {
+    width: 190px;
+    height: 295px;
+    margin-bottom: 20px;
+}
+
+.book-details-heading {
+    color: #ffffff;
+    font-family: bree Serif;
+    font-size: 25px;
+}
+
+.book-details-author {
+    color: #9aa5b1;
+    font-family: bree Serif;
+    font-size: 10px;
+}
+
+.book-details-description {
+    text-align: left;
+    color: #e4e7eb;
+    font-family: bree Serif;
+    font-size: 10px;
+}
